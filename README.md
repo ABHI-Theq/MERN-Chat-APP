@@ -167,7 +167,7 @@ NODE_ENV=development
 
 ## 👥 Authors
 
-- Your Name - [GitHub](https://github.com/ABHI-Theq)
+- Abhishek Sharma - [GitHub](https://github.com/ABHI-Theq)
 
 ## 🙏 Acknowledgments
 
